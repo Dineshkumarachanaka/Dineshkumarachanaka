@@ -58,6 +58,8 @@ https://wa.me/+94741191182?text=__H_ᴇʏ__CHANUWA_MD
 
 For support, email darkalphaxteamapi@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
 
+✅MY WHATSAPPS SUPPORT GRUP JOIN
+(https://chat.whatsapp.com/G1q4YavL1qPE9ed608U2Ha)
 
 ## Feedback
 
@@ -93,6 +95,5 @@ This is the result of our team's hard work and our team owns the bot's rights an
 
 ## ⚖️  *CHANUWA MD BOT CREATES*
 
-| <a href="https://github.com/CHANUWAMD"><img src="https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg" width=90 height=90></a> |
-|---|---|---|---|---
+| <a href="https://github.com/CHANUWAMD"><img src="https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg" width=90 height=90></a>
 | **[CHANUWA MD](https://github.com/Dineshkumarachanaka/)**</br>Founder & Developer</br>
