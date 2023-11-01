@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align = center>   <img src="https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="CHANUWA-MD WHATSAPP BOT" src="https://img.shields.io/badge/CHANUWA-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
 
-- [@DARKALPHAXTEAM](https://www.github.com/Dineshkumarachanaka)
+- [@CHANUWA-MD](https://www.github.com/Dineshkumarachanaka)
 
 ## Support Group
 
@@ -27,10 +27,18 @@ You can click the Preview link to take a look at your changes.
 
 [![MIT License](https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg)](https://choosealicense.com/licenses/mit/)
 
+##CHANUWA WHATSAPPS NAMEMBER ✅
+
+_Ｃ ᴏ ᴍ ᴇ  Ｔσ " ι Ｎ ʙ ᴏ x 🥺🩷🖇️_
+
+_🖇️💞ᴍʏ ɴʙ👇🏻_
+https://wa.me/+94741191182?text=__H_ᴇʏ__CHANUWA_MD
+
+
 ## Heroku Deployment
 
 <p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
-<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
+<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/Dineshkumarachanaka/CHANUWA-MD-WHATSAPP-BOT" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
 
 
 
