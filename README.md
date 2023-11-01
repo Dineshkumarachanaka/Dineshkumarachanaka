@@ -8,3 +8,84 @@
 Dineshkumarachanaka/Dineshkumarachanaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# CHANUWA MD 
+
+<p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
+
+<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+
+
+## Authors
+
+- [@DARKALPHAXTEAM](https://www.github.com/Dineshkumarachanaka)
+
+## Support Group
+
+- [Join (Only Access for Bots) ](https://chat.whatsapp.com/IZhmddusPM41KkDXZkeRio)
+
+## Own
+
+[![MIT License](https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg)](https://choosealicense.com/licenses/mit/)
+
+## Heroku Deployment
+
+<p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
+<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
+
+
+
+## ✅ Features
+
+✅ Group Commands
+✅ Download Commands
+✅ 24 Work time
+✅ Full Costermizable
+✅ Free Deployments
+✅ Latest Baileys Using
+✅ 2x Respond Speed
+✅ Amazing Commands
+
+
+## 🔒 Support
+
+For support, email darkalphaxteamapi@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail.com
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`SESSION_ID`
+
+`DATABASE_URL`
+
+`HEROKU_APP_NAME`
+
+`HEROKU_API_KEY`
+
+
+
+
+
+
+## ✅ Info
+
+**Attention:** You dont have permission to edit this
+
+**Special Thanks:** Vihanga YT, Nima , Sanuwa , Black Amda and Ravindu Manoj 
+
+## COPYRIGHTS 
+
+This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
+
+
+## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
+
+| <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg" width=90 height=90></a> | <a href="https://github.com/DarkMakerofc"><img src="https://telegra.ph/file/819659c83ab8438084234.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/a7e379be9415cdf16c9df.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
+|---|---|---|---|---|---|
+| **[CHANUWA MD](https://github.com/Dineshkumarachanaka/)**</br>Founder & Developer</br>
