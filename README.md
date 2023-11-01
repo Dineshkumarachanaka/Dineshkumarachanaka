@@ -21,11 +21,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Support Group
 
-- [Join (Only Access for Bots) ]([https://chat.whatsapp.com/G1q4YavL1qPE9ed608U2Ha])
+- [Join (Only Access for Bots) ]
+-([https://chat.whatsapp.com/G1q4YavL1qPE9ed608U2Ha])
 
 ## Own
 
 [![MIT License](https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg)](https://choosealicense.com/licenses/mit/)
+
+
+
 
 ##CHANUWA WHATSAPPS NAMEMBER ✅
 
@@ -33,6 +37,7 @@ _Ｃ ᴏ ᴍ ᴇ  Ｔσ " ι Ｎ ʙ ᴏ x 🥺🩷🖇️_
 
 _🖇️💞ᴍʏ ɴʙ👇🏻_
 https://wa.me/+94741191182?text=__H_ᴇʏ__CHANUWA_MD
+
 
 
 ## Heroku Deployment
@@ -56,10 +61,17 @@ https://wa.me/+94741191182?text=__H_ᴇʏ__CHANUWA_MD
 
 ## 🔒 Support
 
-For support, email darkalphaxteamapi@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+For support, email chanuedusha@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+
+
+
 
 ✅MY WHATSAPPS SUPPORT GRUP JOIN
+
 (https://chat.whatsapp.com/G1q4YavL1qPE9ed608U2Ha)
+
+
+
 
 ## Feedback
 
